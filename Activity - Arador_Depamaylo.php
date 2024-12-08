@@ -58,7 +58,7 @@ switch ($month){
             break;
     }
 
-    echo "Today's date is:  $monthName $day, $year";
+    echo "Date Today:  $monthName $day, $year";
 
 
 
